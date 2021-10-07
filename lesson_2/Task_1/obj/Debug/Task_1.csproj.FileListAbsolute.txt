@@ -1,0 +1,7 @@
+C:\Users\User\Documents\my_work\C#\gb2\lesson_2\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\User\Documents\my_work\C#\gb2\lesson_2\Task_1\bin\Debug\Task_1.exe
+C:\Users\User\Documents\my_work\C#\gb2\lesson_2\Task_1\bin\Debug\Task_1.pdb
+C:\Users\User\Documents\my_work\C#\gb2\lesson_2\Task_1\obj\Debug\Task_1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\my_work\C#\gb2\lesson_2\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\my_work\C#\gb2\lesson_2\Task_1\obj\Debug\Task_1.exe
+C:\Users\User\Documents\my_work\C#\gb2\lesson_2\Task_1\obj\Debug\Task_1.pdb
