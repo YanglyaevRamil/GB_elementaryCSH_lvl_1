@@ -1,0 +1,6 @@
+Начало игры, Energy Ship = 100, Score = 0
+Убит астероид, Energy Ship = 64, Score = 0
+Убит астероид, Energy Ship = 33, Score = 1
+Убит астероид, Energy Ship = 11, Score = 2
+Корабль уничтожен, Energy Ship = 0, Score = 3
+Корабль уничтожен, Energy Ship = 0, Score = 3
