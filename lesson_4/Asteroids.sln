@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteroids", "Asteroids\Asteroids.csproj", "{2D4AF997-2577-47C9-AD76-22F451E224B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{BD5D8DD3-24A7-48BF-BEF1-0D3F05F2929A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3", "Task_3\Task_3.csproj", "{89A1E5C2-A697-4444-B7B8-85465484A698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4AF997-2577-47C9-AD76-22F451E224B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4AF997-2577-47C9-AD76-22F451E224B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4AF997-2577-47C9-AD76-22F451E224B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4AF997-2577-47C9-AD76-22F451E224B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5D8DD3-24A7-48BF-BEF1-0D3F05F2929A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5D8DD3-24A7-48BF-BEF1-0D3F05F2929A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5D8DD3-24A7-48BF-BEF1-0D3F05F2929A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5D8DD3-24A7-48BF-BEF1-0D3F05F2929A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A1E5C2-A697-4444-B7B8-85465484A698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A1E5C2-A697-4444-B7B8-85465484A698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A1E5C2-A697-4444-B7B8-85465484A698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A1E5C2-A697-4444-B7B8-85465484A698}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0A0D62F-B517-4809-9EAF-16F20FEBCECA}
+	EndGlobalSection
+EndGlobal
