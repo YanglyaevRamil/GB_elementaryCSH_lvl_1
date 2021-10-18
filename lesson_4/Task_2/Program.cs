@@ -17,25 +17,22 @@ namespace Task_2
 
             list.AddRange(new int[] { 20, 1, -1, 2, 9, 2, 4, 16, 20, 2 });
 
-            // Как лучше ??????????????????????? !!!!!!!!!!!!!!!!!!!
-
             // Способ 1
-            //list.ForEach(a => frequencyList0[a] = 0);
-            //list.ForEach(a => frequencyList0[a] = frequencyList0[a]++);
+            list.ForEach(a => frequencyList0[a] = frequencyList0.ContainsKey(a) ? ++frequencyList0[a] : 1);
 
             // Способ 2
-            list.ForEach(a => 
-            {
-                if (frequencyList0.ContainsKey(a))
-                {
-                    frequencyList0[a]++;
-                }
-                else
-                {
-                    frequencyList0[a] = 1;
-                }
-            }
-            );
+            //list.ForEach(a => 
+            //{
+            //    if (frequencyList0.ContainsKey(a))
+            //    {
+            //        frequencyList0[a]++;
+            //    }
+            //    else
+            //    {
+            //        frequencyList0[a] = 1;
+            //    }
+            //}
+            //);
 
             // Способ 3
             //list.ForEach(delegate (int a)
@@ -62,17 +59,7 @@ namespace Task_2
             Dictionary<object, int> frequencyList1 = new Dictionary<object, int>();
             arrayList.AddRange(new object[] { "sss", 1, -1, 2, 9, 2, 4, 16, "sss", 2, "124wdq1", new Random(1) });
 
-            list.ForEach(a =>
-            {
-                if (frequencyList1.ContainsKey(a))
-                {
-                    frequencyList1[a]++;
-                }
-                else
-                {
-                    frequencyList1[a] = 1;
-                }
-            });
+            list.ForEach(a => frequencyList1[a] = frequencyList1.ContainsKey(a) ? ++frequencyList1[a] : 1);
 
             foreach (KeyValuePair<object, int> entry in frequencyList1)
             {

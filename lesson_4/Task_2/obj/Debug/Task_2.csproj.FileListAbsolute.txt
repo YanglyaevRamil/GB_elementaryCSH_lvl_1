@@ -5,3 +5,10 @@ C:\Users\User\Documents\my_work\C#\gb2\lesson_4\Task_2\obj\Debug\Task_2.csproj.A
 C:\Users\User\Documents\my_work\C#\gb2\lesson_4\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\my_work\C#\gb2\lesson_4\Task_2\obj\Debug\Task_2.exe
 C:\Users\User\Documents\my_work\C#\gb2\lesson_4\Task_2\obj\Debug\Task_2.pdb
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Task_2\bin\Debug\Task_2.exe.config
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Task_2\bin\Debug\Task_2.exe
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Task_2\bin\Debug\Task_2.pdb
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Task_2\obj\Debug\Task_2.exe
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Task_2\obj\Debug\Task_2.pdb

@@ -52,3 +52,12 @@ C:\Users\User\Documents\my_work\C#\gb2\lesson_4\Asteroids\obj\Debug\Asteroids.cs
 C:\Users\User\Documents\my_work\C#\gb2\lesson_4\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\my_work\C#\gb2\lesson_4\Asteroids\obj\Debug\Asteroids.exe
 C:\Users\User\Documents\my_work\C#\gb2\lesson_4\Asteroids\obj\Debug\Asteroids.pdb
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Asteroids\bin\Debug\Asteroids.exe.config
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Asteroids\bin\Debug\Asteroids.exe
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Asteroids\bin\Debug\Asteroids.pdb
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Asteroids\obj\Debug\Asteroids.csproj.AssemblyReference.cache
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Asteroids\obj\Debug\Asteroids.exe
+D:\VisualStudio\ProjectCsh\gb_HomeWork_Csh_level_2\lesson_4\Asteroids\obj\Debug\Asteroids.pdb
