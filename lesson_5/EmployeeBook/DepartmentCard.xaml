@@ -1,0 +1,22 @@
+﻿<Window x:Class="EmployeeBook.DepartmentCard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmployeeBook"
+        mc:Ignorable="d"
+        Title="DepartmentCard" Height="224.434" Width="404.408">
+    <Grid Margin="0,0,2,-1">
+        <Label Content="ID:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="130" Height="25"/>
+        <Label Content="Департамент:" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top" Width="130" Height="25"/>
+        <Label Content="Заработали за год:" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top" Width="130" Height="25"/>
+        <Label Content="Число сотрудников:" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top" Width="130" Height="25"/>
+        <TextBox x:Name="tbID" Margin="144,14,10,0" TextWrapping="Wrap"  Height="23" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbDep" Margin="144,44,10,0" TextWrapping="Wrap"  Height="23" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbSalary" Margin="144,74,10,0" TextWrapping="Wrap"  Height="23" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbNumEmp" Margin="144,104,10,0" TextWrapping="Wrap"  Height="23" VerticalAlignment="Top" IsReadOnlyCaretVisible="True"/>
+        <Button x:Name="btnDelit" Content="Отмена" Margin="294,0,10,15" Height="35" VerticalAlignment="Bottom" Click="btnDelit_Click"/>
+        <Button x:Name="btnSave" Content="Сохранить" Margin="199,0,105,15" Height="35" VerticalAlignment="Bottom" Click="btnSave_Click"/>
+
+    </Grid>
+</Window>
